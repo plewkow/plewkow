@@ -8,6 +8,8 @@ FTIMS, TUL Student<br>🌱 I’m currently learning Web Apps
 ![](https://github-readme-stats.vercel.app/api?username=plewkow&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=plewkow&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=plewkow&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# POWERLIFT PRs:
+[![My powerlifting PRs](https://lukasz0104-github-widgets.deno.dev/hevy?username=plewkowicz)](https://github.com/Lukasz0104/github-widgets-deno)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=plewkow&icon=0&color=6)](https://visitcount.itsvg.in)
