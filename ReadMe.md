@@ -1,5 +1,5 @@
 # 💫 About Me:
-FTIMS, TUL Student<br>🌱 I’m currently learning Web Apps
+FTIMS, TUL Student<br>🌱 I’m currently learning Web Apps and Go Language!
 
 
 # 💻 Tech Stack:
