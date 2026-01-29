@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">TUL Computer Science student from Poland</h3>
 
-- 🔭 I’m currently working on [GoLang Todo App](https://github.com/plewkow/GoTodoApp.git)
-
 - 🌱 I’m currently learning **Go language and Test Driven Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/plewkow?tab=repositories](https://github.com/plewkow?tab=repositories)
